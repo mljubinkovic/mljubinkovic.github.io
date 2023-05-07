@@ -1,0 +1,40 @@
+.navbar-custom{
+    background-color: #6FB28A;
+}
+.bg-custom{
+    background-color: #CDE6F1;
+}
+.text-custom{
+    color: #000000;
+}
+.text-secondary-custom{
+    color: #000F08;
+}
+.card-custom-bg{
+    border: #FFFF;
+    background-color: 808D8E;
+    color: black;
+}
+.card-bg-all{
+    background-color: #E5E8E5;
+}
+.btn-ponuda{
+    background-color: #4668E3;
+    color: white;
+}
+.footer-bg{
+    background-color: #2C2396;
+    color: white;
+}
+
+.info-text{
+    font-size: 10px;
+}
+.naslov{
+    font-family: 'Kanit';
+   
+}
+.podnaslov{
+    font-family: 'Roboto Mono';
+    
+}
